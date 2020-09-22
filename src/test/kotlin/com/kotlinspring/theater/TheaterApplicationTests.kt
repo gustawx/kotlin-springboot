@@ -9,5 +9,4 @@ class TheaterApplicationTests {
 	@Test
 	fun contextLoads() {
 	}
-
 }
